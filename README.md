@@ -13,3 +13,6 @@ This is a currency calculator for three different currencies: USD, EURO, GBP. Pl
 - JavaScript
 - BEM convention
 - ES6
+1 let and const keywords
+2 Arrow Functions
+3 Template Literals
