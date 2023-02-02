@@ -1,6 +1,6 @@
 # Currency calculator
 
-![Money](https://raw.githubusercontent.com/KingaPalijewska/currency-calculator/main/images/t%C5%82o%20banktony.jpg)
+![Money](images/Animation.gif)
 
 ## Demo
 https://kingapalijewska.github.io/currency-calculator/
