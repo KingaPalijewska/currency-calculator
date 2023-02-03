@@ -1,6 +1,6 @@
 # Currency calculator
 
-![Money](https://raw.githubusercontent.com/KingaPalijewska/currency-calculator/main/images/t%C5%82o%20banktony.jpg)
+![Money](images/Animation.gif)
 
 ## Demo
 https://kingapalijewska.github.io/currency-calculator/
@@ -12,7 +12,7 @@ This is a currency calculator for three different currencies: USD, EURO, GBP. Pl
 - CSS
 - JavaScript
 - BEM convention
-- ES6
-1 let and const keywords
-2 Arrow Functions
-3 Template Literals
+- ES6+
+1. let and const keywords
+2. Arrow Functions
+3. Template Literals
